@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "EVPBB4A9B000")(type "KiCad")(uri "${KIPRJMOD}/Symbol/EVPBB4A9B000")(options "")(descr ""))
+)
