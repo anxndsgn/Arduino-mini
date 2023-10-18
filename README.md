@@ -1,2 +1,4 @@
 # Arduino-mini
-Arduino最小开发板，基于atmega328p。
+The Minimum Arduino board, based on ATmega328P.
+
+
