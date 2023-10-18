@@ -3,5 +3,5 @@
 
 The Minimum Arduino board, based on ATmega328P.
 
-
+The 0.1 version is on [EasyEDA](https://oshwhub.com/camcyano/arduinomini).
 
